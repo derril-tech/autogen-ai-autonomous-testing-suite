@@ -1,8 +1,6 @@
 # 🤖 AI-Autonomous Testing Suite
 **Powered by AutoGen Multi-Agent System + OpenAI**
 
-🌐 **[View Live Application](https://autogen-ai-autonomous-testing-suite.vercel.app)**
-
 > **Connect your GitHub repository, and watch AI agents autonomously analyze your codebase, generate comprehensive test suites, execute them safely, and provide actionable insights—all in one seamless workflow.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -293,8 +291,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-
-[Live Demo](https://autogen-ai-autonomous-testing-suite.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
